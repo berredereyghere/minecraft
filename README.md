@@ -100,7 +100,7 @@ Nu het lastige stuk: je Minecraft-server bereikbaar maken met een domeinnaam. We
 4. **Log in op je modem**  
    - Gebruikersnaam = vaak **"user"**.  
    - Wachtwoord = de **"Access Key"** op de sticker van je modem.
-   - Bij mij hangt hij hier: [modem.jpg](modem.jpg)
+   - Bij mij hangt hij hier: ![modem.jpg](modem.jpg)
 
 ---
 
