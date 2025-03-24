@@ -100,7 +100,7 @@ Nu het lastige stuk: je Minecraft-server bereikbaar maken met een domeinnaam. We
 4. **Log in op je modem**  
    - Gebruikersnaam = vaak **"user"**.  
    - Wachtwoord = de **"Access Key"** op de sticker van je modem.
-   - Bij mij hangt hij hier: ![]
+   - Bij mij hangt hij hier: ![modem.jpg]
 
 ---
 
@@ -109,6 +109,7 @@ Nu het lastige stuk: je Minecraft-server bereikbaar maken met een domeinnaam. We
 1. **Ga naar de Port Forwarding-instellingen**  
    - Dit kan heten:  
      - **"Your Local Network"**
+   ![menu.jpg]
 
 2. **Open poort 25565 voor Minecraft**  
    - Klik op **"Nieuwe regel toevoegen"** of **"+"**.  
@@ -118,7 +119,7 @@ Nu het lastige stuk: je Minecraft-server bereikbaar maken met een domeinnaam. We
      - **Protocol**: **TCP/UDP (Both)**  
      - **IP-adres**: Het **interne IP van je Minecraft-server**
      - het zou er ongeveer zo uit moeten zien:
-   ![]
+   ![poort.jpg]
 
 3. **Open de poort voor BlueMap**  
    - Voeg nog een regel toe.  
